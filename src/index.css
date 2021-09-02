@@ -1,0 +1,28 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-card-main {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.font-card-secondary {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.btn-shadow {
+  /* box-shadow: 0 6.4px 2.9px -15px rgba(33, 101, 210, 0.961), 0 18px 23px -10px rgba(69, 129, 225, 0.331); */
+  box-shadow: 0 10px 17px rgba(33, 101, 210, 0.161);
+}
+.btn-shadow:active {
+  box-shadow: 0 4px 4px rgba(33, 101, 210, 0.161);
+}
+
+.form-container-shadow {
+  box-shadow: 0 45px 54px rgba(3, 44, 116, 0.11);
+}
+
+.card-container-shadow {
+  box-shadow: 0 20px 28px rgba(2, 44, 116, 0.221);
+}
