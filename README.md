@@ -1,5 +1,9 @@
 ## Card Detector - React Js & Tailwind CSS
 
+[![React Js](https://img.shields.io/badge/ReactJs-17.0.2-blue.svg)](https://reactjs.org/)
+[![React DOM](https://img.shields.io/badge/ReactDOM-17.0.2-blue.svg)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2.2.9-cyan.svg)](https://tailwindcss.com/)
+
 [Preview on Netlify](https://card-detector.netlify.app/)
 
 ### 📜 Overview
