@@ -13,7 +13,7 @@ Based on the input card number, it detects type of card from following category:
 3. Maestro
 4. RuPay
 
-> The default card type is set to Visa.
+> The default card type is set to Visa. The card information shown in below snapshot is sample content - not real, do not waste your time 😄
 
 Detection happens using the utility function `getCardType` in `/src/utils/cardTypes.js`. Behind the scenes it is Regex based detection.
 
